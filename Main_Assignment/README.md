@@ -4,7 +4,7 @@ PART 0 - DATA PREPROCESSING(by Hannan)
 
 - Loading Data : The dataset is read and loaded from a CSV file downloaded from Kaggle (Source : https://www.kaggle.com/code/salutonkielvifartas/students-mental-health-eda)
 - Handling Missing Values : The dataset is checked for any missing values, such as NULL values. No missing values were found, so missing value handling methods were not required.
-- Renaming Columns : Some columns were renamed to become more appropriate, consistent, and simpler, such as |HasMentalHealthSupport| to Mental Support, and the column values with lowercase such as 'year 4' were capitalised to 'Year 4'
+- Renaming Columns : Some columns were renamed to become more appropriate, consistent, and simpler, such as **HasMentalHealthSupport** to **Mental Support**, and the column values with lowercase such as **'year 4'** were capitalised to **'Year 4'**
 
 PART 1 - EXPLORATORY DATA ANALYSIS(by Hannan)
 
