@@ -1,4 +1,4 @@
-This is the readme.md file for the Main Assignment Code. This file explains the processes done inside the main IPYNB file, Assignment_ML_Merged.ipynb
+This is the readme file for the Project. This file explains the processes done inside the main IPYNB file, Assignment_ML_Merged.ipynb
 
 PART 0 - DATA PREPROCESSING(by Hannan)
 
@@ -12,3 +12,9 @@ PART 1 - EXPLORATORY DATA ANALYSIS(by Hannan)
 - Displaying data counts - For columns that could not be displayed in barcharts due to compatibility issues, their counts are displayed in text form. Example : Course
 - Creating bins - The CGPA's recorded in the dataset are split into bins, with a line showing the Kernel Density Estimate(KDE).
 - Checking potential related columns - Picking a few columns, several EDA methods are used to chart/display these columns into multiple charts and text outputs. Example : Average stress level for each course with weighted averages, Depression levels for each year, Total Number of students receiving help vs not receiving help, if depression affects academic engagement
+
+PART 2 - PCA (by Khoo)
+
+- Data preparation - More preprocessing is required for the PCA process, such as encoding the 'Gender' column
+- PCA is then performed on the dataset - Try to find the cumulative explained variance by number of principal components
+- PCA analysis is made - Found out that all the columns are relatively balanced, as well as the dataset is already well-structured, and if we want to explain 90% of the variance, all 7 columns are needed
