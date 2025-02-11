@@ -1,20 +1,11 @@
-This is the readme file for the Project. This file explains the processes done inside the main IPYNB file, Assignment_ML_Merged.ipynb
+# Executive Summary
 
-PART 0 - DATA PREPROCESSING(by Hannan)
+(note, pls less than 300 words cuz guidelines)
 
-- Loading Data : The dataset is read and loaded from a CSV file downloaded from Kaggle (Source : https://www.kaggle.com/code/salutonkielvifartas/students-mental-health-eda)
-- Handling Missing Values : The dataset is checked for any missing values, such as NULL values. No missing values were found, so missing value handling methods were not required.
-- Renaming Columns : Some columns were renamed to become more appropriate, consistent, and simpler, such as **HasMentalHealthSupport** to **Mental Support**, and the column values with lowercase such as **'year 4'** were capitalised to **'Year 4'**
+Mental health in Malaysia has always been overlooked, especially in younger generations. With this dataset, it contains various mental health from university students. This can be used as research on the effect of mental health on university students' CGPA. It was provided by Jia Jun Chen on the Kaggle site (https://www.kaggle.com/datasets/junnn0126/university-students-mental-health).
 
-PART 1 - EXPLORATORY DATA ANALYSIS(by Hannan)
+The project was started off by Hannan with data preprocessing. This includes the process of loading the data, handling missing values, and renaming columns. Then EDA was performed, which includes the process of displaying data in barcharts, as well as data counts, creating bins, and checking potential related columns.
 
-- Displaying data in barcharts - For selected columns who are compatible, the amounts they have inside the dataset is displayed in barcharts. Example : Total number of male/females, Ages of all correspondents, YearOfStudy
-- Displaying data counts - For columns that could not be displayed in barcharts due to compatibility issues, their counts are displayed in text form. Example : Course
-- Creating bins - The CGPA's recorded in the dataset are split into bins, with a line showing the Kernel Density Estimate(KDE).
-- Checking potential related columns - Picking a few columns, several EDA methods are used to chart/display these columns into multiple charts and text outputs. Example : Average stress level for each course with weighted averages, Depression levels for each year, Total Number of students receiving help vs not receiving help, if depression affects academic engagement
+Next is the PCA process conducted by Khoo. More data preparation is performed on the dataset for the PCA process, and then PCA was performed after. Analysis was then made on the PCA process, which reveals that PCA may not be needed for this project.
 
-PART 2 - PCA (by Khoo)
-
-- Data preparation - More preprocessing is required for the PCA process, such as encoding the 'Gender' column
-- PCA is then performed on the dataset - Try to find the cumulative explained variance by number of principal components
-- PCA analysis is made - Found out that all the columns are relatively balanced, as well as the dataset is already well-structured, and if we want to explain 90% of the variance, all 7 columns are needed
+After that, (continue here)
