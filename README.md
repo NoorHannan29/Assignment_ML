@@ -5,14 +5,14 @@
 ### Group Info - Group 20
 
 ```
-+-------------------------------------------+------------+--------------+
-| Name                                      | Student ID | Contribution |
-+-------------------------------------------+------------+--------------+
-| 1. Khoo Jen-Au                            | 1211102910 | 25%          |
-| 2. Wan Muhammad Atif bin Taram Satiraksa  | 1211103154 | 25%          |
-| 3. Noor Hannan bin Noor Hamsuruddin       | 1211104293 | 25%          |
-| 4. Adam Daniel bin Saiful Azly            | 1211104293 | 25%          |
-+-------------------------------------------+------------+--------------+
++-------------------------------------------+------------+----------------------------------------------+--------------+
+| Name                                      | Student ID | Tasks                                        | Contribution |
++-------------------------------------------+------------+----------------------------------------------+--------------+
+| 1. Khoo Jen-Au                            | 1211102910 | Lab Enhancement 3 & Project PCA              | 25%          |
+| 2. Wan Muhammad Atif bin Taram Satiraksa  | 1211103154 | Lab Enhancement 1 & Project Modelling        | 25%          |
+| 3. Noor Hannan bin Noor Hamsuruddin       | 1211104293 | Lab Enhancement 2 & Project EDA              | 25%          |
+| 4. Adam Daniel bin Saiful Azly            | 1211104293 | Lab Enhancement 4 & Project Results Analysis | 25%          |
++-------------------------------------------+------------+----------------------------------------------+--------------+
 ```
 
 ### Overview
