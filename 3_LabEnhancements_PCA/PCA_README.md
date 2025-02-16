@@ -11,3 +11,5 @@ Once the preprocessing process is over, which included the process of encoding t
 With the results of the PCA process, I explained the cumulative explained variance, as well as some insights of the PCA process. After that, I choose the number of components.
 
 After that, I mentioned some potential uses with PCA, which included feature engineering, and potential future work.
+
+Timestamp in video presentation: https://youtu.be/cfWGxzd7W-Y?si=xi2RMgNqLZt5YEnz&t=411

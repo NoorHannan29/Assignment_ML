@@ -22,3 +22,5 @@ In this submission, there are 5 folders. The first 4 are the Lab Enhancements, w
 In every Lab Enhancement folder, it includes a `.ipynb` file, which includes the Lab Enhancement. The folders also includes a `.pdf` file of the represented lab enhancement. And if any additional datasets were used, they will also be present in the respective folders too. Lastly, there will also be a `.md` file, which contains the overview of the lab enhancement.
 
 Besides that, in the Project folder, it includes the `.ipynb` file for the project, as well as a `.csv` file which is the dataset used in this project. There also exists a `PROJECT_README.md` file which contains the executive summary of the project.
+
+As for the presentation, here is the provided video link: https://youtu.be/cfWGxzd7W-Y. In every `.md` file in the subfolders, the timestamps of the video explaining that part will be linked individually.
